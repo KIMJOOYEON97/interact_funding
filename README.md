@@ -1,7 +1,7 @@
 # 1. PREVIEW & 개요
 [KH]스마트 콘텐츠 융합 응용SW 엔지니어 양성과정 중 파이널프로젝트 이며 "와디즈 " 라는사이트 클론코딩으로 구현한 사이트입니다 
 구현기간:2021/ 06/03 ~ 2021/07/08 입니다.
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f35da1b-71da-46bb-b2d3-62fecaf31582/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f35da1b-71da-46bb-b2d3-62fecaf31582/Untitled.png)
+
 ### `구현한 사이트 주소 입니다.` (http://interact-funding.kro.kr/)  
 
 ## 2. 프로젝트 요구사항
