@@ -1,7 +1,7 @@
 # 1. PREVIEW & 개요
 [KH]스마트 콘텐츠 융합 응용SW 엔지니어 양성과정 중 파이널프로젝트 이며 "와디즈 " 라는사이트 클론코딩으로 구현한 사이트입니다 
 구현기간:2021/ 06/03 ~ 2021/07/08 입니다.
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f35da1b-71da-46bb-b2d3-62fecaf31582/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f35da1b-71da-46bb-b2d3-62fecaf31582/Untitled.png)
 ### `구현한 사이트 주소 입니다.` (http://interact-funding.kro.kr/)  
 
 ## 2. 프로젝트 요구사항
@@ -29,6 +29,33 @@
 
 ## 5. 핵심 구현 기술 설명
 
+## 5-1. 펀딩 목록
+
+- view
+- 구현기능
+- controller
+- query
+
+## 5-2. 펀딩 등록, 수정
+
+- view
+- 구현기능
+- controller
+- query
+
+## 5-3. 펀딩 삭제
+
+- view
+- 구현기능
+- controller
+- query
+
+## 5-4. 펀딩 제출하기 ,  SMS인증
+
+- view
+- 구현기능
+- controller
+- query
 
 ## 6. 구현 기간
 
